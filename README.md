@@ -1,5 +1,5 @@
 # Synth
-This is mmy attempt at simulating the sound of various instruments.
+This is my attempt at simulating the sound of various instruments.
 ## Usage
 ```
 $ ./synth instrument song
