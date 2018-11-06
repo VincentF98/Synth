@@ -1,9 +1,6 @@
 # Synth
-
 This is mmy attempt at simulating the sound of various instruments.
-
 ## Usage
-
 ```
 $ ./synth instrument song
 ```
